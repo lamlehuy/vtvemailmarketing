@@ -1,0 +1,1 @@
+DELETE FROM `vtiger_links` WHERE linkurl='modules/ExtensionStore/ExtensionStore.js';
